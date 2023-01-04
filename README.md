@@ -1,10 +1,10 @@
 # Mercado Liebre
 
-Proyecto de sitio web para Digital House
+Proyecto de sitio web para Digital House.
 
 ## Etapa actual - Maquetado
 
-En esta etapa maquetamos el sitio web, agregando todas las cosas que tendrá
+En esta etapa maquetamos el sitio web, agregando todas las cosas que tendrá.
 
 ## Progreso
 
@@ -16,13 +16,14 @@ En esta etapa maquetamos el sitio web, agregando todas las cosas que tendrá
 
 ## Como usar
 
-Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal
+Luego de descargar los archivos, hay que ejecutar el siguiente comando desde la carpeta principal.
 
 ```console
 npm install
 ```
-Esto instalará las dependencias del servidor
-Ahora solo queda iniciarlo con el siguiente comando
+Esto instalará las dependencias del servidor. 
+
+Ahora solo queda iniciarlo con el siguiente comando.
 
 ```console
 node app.js
